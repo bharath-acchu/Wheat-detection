@@ -1,1 +1,1 @@
-# Wheat-detection
+# Wheat detection
